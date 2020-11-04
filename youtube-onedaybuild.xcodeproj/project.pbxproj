@@ -8,6 +8,7 @@
 
 /* Begin PBXBuildFile section */
 		5B032E3B254F0A3D0031F8D9 /* ConstantsTemplate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5B032E3A254F0A3D0031F8D9 /* ConstantsTemplate.swift */; };
+		5B184DB02552EC0B00EFE460 /* Response.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5B184DAF2552EC0B00EFE460 /* Response.swift */; };
 		5B87C02C254841F4005D7A9E /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5B87C02B254841F4005D7A9E /* AppDelegate.swift */; };
 		5B87C02E254841F4005D7A9E /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5B87C02D254841F4005D7A9E /* SceneDelegate.swift */; };
 		5B87C030254841F4005D7A9E /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5B87C02F254841F4005D7A9E /* ViewController.swift */; };
@@ -21,6 +22,7 @@
 
 /* Begin PBXFileReference section */
 		5B032E3A254F0A3D0031F8D9 /* ConstantsTemplate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ConstantsTemplate.swift; sourceTree = "<group>"; };
+		5B184DAF2552EC0B00EFE460 /* Response.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Response.swift; sourceTree = "<group>"; };
 		5B87C028254841F4005D7A9E /* youtube-onedaybuild.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "youtube-onedaybuild.app"; sourceTree = BUILT_PRODUCTS_DIR; };
 		5B87C02B254841F4005D7A9E /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		5B87C02D254841F4005D7A9E /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
@@ -75,6 +77,7 @@
 				5BE1DC33254EFB2600955041 /* Video.swift */,
 				5BE1DC36254EFBBC00955041 /* Model.swift */,
 				5B032E3A254F0A3D0031F8D9 /* ConstantsTemplate.swift */,
+				5B184DAF2552EC0B00EFE460 /* Response.swift */,
 			);
 			path = "youtube-onedaybuild";
 			sourceTree = "<group>";
@@ -149,6 +152,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				5B184DB02552EC0B00EFE460 /* Response.swift in Sources */,
 				5B032E3B254F0A3D0031F8D9 /* ConstantsTemplate.swift in Sources */,
 				5B87C030254841F4005D7A9E /* ViewController.swift in Sources */,
 				5B87C02C254841F4005D7A9E /* AppDelegate.swift in Sources */,
